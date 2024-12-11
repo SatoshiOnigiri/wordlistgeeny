@@ -1,6 +1,3 @@
-# wordlistgeeny
-Headless Wordlist Geeny | Wordlist Generator
-
 # Wordlistgeeny 2025
 
 **Wordlistgeeny** is a simple and interactive headless password wordlist generator, created by Lathusan G. It allows you to generate custom wordlists based on target information and various user preferences.
@@ -15,4 +12,4 @@ Headless Wordlist Geeny | Wordlist Generator
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SatoshiOnigiri/Wordlistgeeny.git
+   git clone https://github.com/your-username/Wordlistgeeny.git
