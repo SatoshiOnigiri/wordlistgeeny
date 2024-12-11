@@ -11,7 +11,8 @@
 ## Installation
 
 1. Clone the repository:
-   ```bash  https://github.com/SatoshiOnigiri/wordlistgeeny.git
+   ```bash
+   https://github.com/SatoshiOnigiri/wordlistgeeny.git
 
 
 
