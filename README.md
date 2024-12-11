@@ -49,4 +49,4 @@ This project is licensed under the Döner Kebab License - see the LICENSE file f
 
 ## From your truly 
 
-Lathu G.
+Lathusan Gnanasekaran
