@@ -19,7 +19,7 @@
 ## Usage
 To use Wordlistgeeny:
 
-chmod +x wordlistgeeny.oy
+chmod +x wordlistgeeny.py
 
 
 Run the script:
