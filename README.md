@@ -14,7 +14,7 @@
    ```bash
  https://github.com/SatoshiOnigiri/wordlistgeeny.git
 
- bash
+
 
 ## Usage
 To use Wordlistgeeny:
@@ -24,6 +24,9 @@ Run the script:
    ```bash
 
 python3 wordlistgeeny.py
+
+bash
+
 Follow the on-screen prompts to:
 
 Provide target information (comma-separated).
