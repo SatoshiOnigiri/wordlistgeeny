@@ -11,8 +11,7 @@
 ## Installation
 
 1. Clone the repository:
-   ```bash
- https://github.com/SatoshiOnigiri/wordlistgeeny.git
+   ```bash  https://github.com/SatoshiOnigiri/wordlistgeeny.git
 
 
 
@@ -21,11 +20,8 @@ To use Wordlistgeeny:
 
 Run the script:
 
-   ```bash
 
 python3 wordlistgeeny.py
-
-bash
 
 Follow the on-screen prompts to:
 
@@ -35,8 +31,8 @@ Choose whether to include numbers and special characters.
 Set the randomness level.
 Specify the number of entries to generate.
 Choose the output filename.
-Example
-   ```bash
+## Example
+   ```bash 
 Step 1: Enter the target information (comma-separated, e.g., username, company, etc.): johndoe,companyxyz
 Step 2: Enter the password length range (e.g., '8-12'): 8-12
 Step 3: Do you want to include numbers in the wordlist? (y/n): y
