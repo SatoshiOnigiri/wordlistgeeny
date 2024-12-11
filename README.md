@@ -14,6 +14,8 @@
    ```bash
  https://github.com/SatoshiOnigiri/wordlistgeeny.git
 
+ bash
+
 ## Usage
 To use Wordlistgeeny:
 
