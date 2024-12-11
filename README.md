@@ -19,6 +19,9 @@
 ## Usage
 To use Wordlistgeeny:
 
+chmod +x wordlistgeeny.oy
+
+
 Run the script:
 
 
